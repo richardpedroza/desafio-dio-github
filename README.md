@@ -23,3 +23,7 @@ Este repositório foi criado como parte de um desafio prático da DIO para apren
 
 - Adicionar mais exemplos
 - Melhorar organização
+
+- ## 🔄 Atualização
+
+Adicionei melhorias no README para prática de Pull Request.
