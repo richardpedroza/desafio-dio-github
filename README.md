@@ -18,3 +18,8 @@ Este repositório foi criado como parte de um desafio prático da DIO para apren
 ## ✍️ Autor
 
 - Richard L
+
+## 🔥 Melhorias futuras
+
+- Adicionar mais exemplos
+- Melhorar organização
